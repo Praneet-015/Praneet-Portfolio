@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Praneet-Portfolio/static/css/main.395adb92.css",
+    "main.js": "/Praneet-Portfolio/static/js/main.909669b9.js",
+    "static/media/Profile.jpg": "/Praneet-Portfolio/static/media/Profile.18dc9a6161bae2ca427b.jpg",
+    "static/media/testimonial3.png": "/Praneet-Portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Praneet-Portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Praneet-Portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Praneet-Portfolio/index.html",
+    "main.395adb92.css.map": "/Praneet-Portfolio/static/css/main.395adb92.css.map",
+    "main.909669b9.js.map": "/Praneet-Portfolio/static/js/main.909669b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.395adb92.css",
+    "static/js/main.909669b9.js"
+  ]
+}
